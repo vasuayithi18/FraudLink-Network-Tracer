@@ -46,6 +46,7 @@ coverage.xml
 .hypothesis/
 
 # Streamlit Local Runtime & Credentials
+secrets.toml
 .streamlit/secrets.toml
 
 # Environment Variables & Private Credentials
