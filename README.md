@@ -124,3 +124,7 @@ FraudLink-Network-Tracer/
 
 4. **What is the difference between PCA and t-SNE?**
    *PCA is a linear technique that preserves global variance along orthogonal eigenvectors. t-SNE is a non-linear manifold technique that preserves local probabilistic neighborhoods, making it superior for visualizing distinct clusters and isolated outliers.*
+
+
+Deploy url:
+https://fraudlink-network-tracer-bcjgt3jvlqhrixx4fxpcqg.streamlit.app/
